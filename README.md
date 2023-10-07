@@ -7,3 +7,4 @@
 | [Анализ данных музыкального сервиса](https://github.com/vp081022/DataScience/tree/main/MusicService)| Сравнение музыкальных предпочтений пользователей из разных городов| *pandas* |
 | [Анализ продаж компьютерных игр](https://github.com/vp081022/DataScience/tree/main/GameSales)| Выявление закономерностей, определяющих успешность продаж компьютерных игр| *pandas, matplotlib, seaborn, scipy* |
 | [Прогнозирование оттока клиентов](https://github.com/vp081022/DataScience/tree/main/CustomerChurn)| Обучение на имеющихся данных модели и прогнозирование, уйдет клиент из банка в ближайшее время или останется| *pandas, sklearn* |
+| [Оценка способности потенциального заёмщика вернуть кредит банку](https://github.com/vp081022/DataScience/tree/main/DataPreproccesing)| Анализ с предобработкой статистических данных о платёжеспособности клиентов и вывод факторов, влияющих на возврат кредита| *pandas, numpy, matplotlib, pymorphy3* |
