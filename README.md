@@ -13,3 +13,4 @@
 | [Рекомендация тарифов](https://github.com/vp081022/DataScience/tree/main/Tariff_Recommendation)| Построение модели машинного обучения для рекомендации тарифов.| *pandas, sklearn* |
 | [Выбор места локации для скважины](https://github.com/vp081022/DataScience/tree/main/Well_Location)| Построение модели машинного обучения, позволяющей определить регион, в котором добыча нефти принесет наибольшую прибыль.| *pandas, numpy, sklearn* |
 | [Восстановление золота из руды](https://github.com/vp081022/DataScience/tree/main/Ore)| Построение модели машинного обучения, которая предскажет коэффициент восстановления золота из золотосодержащей руды..| *pandas, numpy, matplotlib, sklearn* |
+| [Защита персональных данных](https://github.com/vp081022/DataScience/tree/main/Data_Protection)| Разработка метода преобразования данных для их защиты без ухудшения качества используемой модели машинного обучения.| *pandas, numpy, sklearn* |
