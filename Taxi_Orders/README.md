@@ -4,6 +4,6 @@
 ### Вывод
 Было обучено и протестировано несколько моделей. Наилучшей оказалась модель CatBoostRegressor, которая показала RMSE = 32,66
 ### Стек технологий
-pandas, numpy, sklearn, statsmodels, matplotlib, catboost
+pandas, sklearn, statsmodels, matplotlib, catboost
 ## Статус проекта
 Завершен
